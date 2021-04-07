@@ -14,7 +14,7 @@ NSL-KDD, publicly available at: [[1]](https://www.unb.ca/cic/datasets/nsl.html) 
 ### Code  
 * Dataset pre-processing: [1-Data_pre-processing_NSL-KDD.ipynb](https://github.com/Western-OC2-Lab/OASW-Concept-Drift-Detection-and-Adaptation/blob/main/1-Data_pre-processing_NSL-KDD.ipynb)   
 * Static machine learning algorithm development: [2-Conventional_or_static_machine_learning_algorithms.ipynb](https://github.com/Western-OC2-Lab/OASW-Concept-Drift-Detection-and-Adaptation/blob/main/2-Conventional_or_static_machine_learning_algorithms.ipynb)   
-* Proposed OASW drift detection method implementation: [3-OASW_for_concept_drift_detection&adaptation.ipynb](https://github.com/Western-OC2-Lab/OASW-Concept-Drift-Detection-and-Adaptation/blob/main/3-OASW_for_concept_drift_detection&adaptation.ipynb)   
+* Proposed OASW drift detection method implementation: [3-OASW_for_concept_drift_detection&adaptation.ipynb](https://github.com/Western-OC2-Lab/OASW-Concept-Drift-Detection-and-Adaptation/blob/main/3-OASW_for_concept_drift_detection%26adaptation.ipynb)   
 * Real-time prediction & drift detection: [4-Real-time_prediction_with_concept_drift_adaptation.ipynb](https://github.com/Western-OC2-Lab/OASW-Concept-Drift-Detection-and-Adaptation/blob/main/4-Real-time_prediction_with_concept_drift_adaptation.ipynb)   
 
 ## Contact-Info
