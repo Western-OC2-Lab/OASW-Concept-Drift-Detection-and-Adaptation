@@ -12,10 +12,10 @@ In recent years, with the increasing popularity of “Smart Technology”, the n
 NSL-KDD, publicly available at: [[1]](https://www.unb.ca/cic/datasets/nsl.html) [[2]](https://github.com/jmnwong/NSL-KDD-Dataset)   
 
 ### Code  
-* Dataset pre-processing: [1-Data_pre-processing_NSL-KDD.ipynb](https://github.com/LiYangHart/OASW-Concept-Drift-Detection-and-Adaptation/blob/master/1-Data_pre-processing_NSL-KDD.ipynb)   
-* Static machine learning algorithm development: [2-Conventional_or_static_machine_learning_algorithms.ipynb](https://github.com/LiYangHart/OASW-Concept-Drift-Detection-and-Adaptation/blob/master/2-Conventional_or_static_machine_learning_algorithms.ipynb)   
-* Proposed OASW drift detection method implementation: [3-OASW_for_concept_drift_detection&adaptation.ipynb](https://github.com/LiYangHart/OASW-Concept-Drift-Detection-and-Adaptation/blob/master/3-OASW_for_concept_drift_detection&adaptation.ipynb)   
-* Real-time prediction & drift detection: [4-Real-time_prediction_with_concept_drift_adaptation.ipynb](https://github.com/LiYangHart/OASW-Concept-Drift-Detection-and-Adaptation/blob/master/4-Real-time_prediction_with_concept_drift_adaptation.ipynb)   
+* Dataset pre-processing: [1-Data_pre-processing_NSL-KDD.ipynb](https://github.com/Western-OC2-Lab/OASW-Concept-Drift-Detection-and-Adaptation/blob/main/1-Data_pre-processing_NSL-KDD.ipynb)   
+* Static machine learning algorithm development: [2-Conventional_or_static_machine_learning_algorithms.ipynb](https://github.com/Western-OC2-Lab/OASW-Concept-Drift-Detection-and-Adaptation/blob/main/2-Conventional_or_static_machine_learning_algorithms.ipynb)   
+* Proposed OASW drift detection method implementation: [3-OASW_for_concept_drift_detection&adaptation.ipynb](https://github.com/Western-OC2-Lab/OASW-Concept-Drift-Detection-and-Adaptation/blob/main/3-OASW_for_concept_drift_detection&adaptation.ipynb)   
+* Real-time prediction & drift detection: [4-Real-time_prediction_with_concept_drift_adaptation.ipynb](https://github.com/Western-OC2-Lab/OASW-Concept-Drift-Detection-and-Adaptation/blob/main/4-Real-time_prediction_with_concept_drift_adaptation.ipynb)   
 
 ## Contact-Info
 Please feel free to contact me for any questions or cooperation opportunities. I'd be happy to help.
