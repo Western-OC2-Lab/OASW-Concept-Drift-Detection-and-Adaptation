@@ -9,7 +9,8 @@ In recent years, with the increasing popularity of “Smart Technology”, the n
 
 ## Implementation 
 ### Dataset 
-NSL-KDD, publicly available at: [[1]](https://www.unb.ca/cic/datasets/nsl.html) [[2]](https://github.com/jmnwong/NSL-KDD-Dataset)   
+NSL-KDD dataset, a popular network traffic dataset for intrusion detection problems
+* Publicly available at: [[1]](https://www.unb.ca/cic/datasets/nsl.html) [[2]](https://github.com/jmnwong/NSL-KDD-Dataset)   
 
 ### Code  
 * Dataset pre-processing: [1-Data_pre-processing_NSL-KDD.ipynb](https://github.com/Western-OC2-Lab/OASW-Concept-Drift-Detection-and-Adaptation/blob/main/1-Data_pre-processing_NSL-KDD.ipynb)   
