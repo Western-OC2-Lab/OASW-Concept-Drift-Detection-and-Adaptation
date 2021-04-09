@@ -21,8 +21,9 @@ NSL-KDD dataset, a popular network traffic dataset for intrusion detection probl
 ## Contact-Info
 Please feel free to contact us for any questions or cooperation opportunities. We will be happy to help.
 * Email: [liyanghart@gmail.com](mailto:liyanghart@gmail.com) or [Abdallah.Shami_at_uwo.ca](mailto:Abdallah.Shami_at_uwo.ca)
-* GitHub: [LiYangHart](https://github.com/LiYangHart)
-* LinkedIn: [Li Yang](https://www.linkedin.com/in/li-yang-65a190176/)
+* GitHub: [LiYangHart](https://github.com/LiYangHart) or [Western OC2 Lab](https://github.com/Western-OC2-Lab/)
+* LinkedIn: [Li Yang](https://www.linkedin.com/in/li-yang-65a190176/)  
+* Google Scholar: [OC2 Lab](https://scholar.google.com.eg/citations?user=oiebNboAAAAJ&hl=en)
 
 ## Citation
 If you find this repository useful in your research, please cite this article as:  
