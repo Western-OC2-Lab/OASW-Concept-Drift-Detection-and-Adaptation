@@ -30,13 +30,16 @@ Please feel free to contact us for any questions or cooperation opportunities. W
 ## Citation
 If you find this repository useful in your research, please cite this article as:  
 
-L. Yang and A. Shami, “A Lightweight Concept Drift Detection and Adaptation Framework for IoT Data Streams,” *IEEE Internet of Things Magazine*, 2021.
+L. Yang and A. Shami, “A Lightweight Concept Drift Detection and Adaptation Framework for IoT Data Streams,” *IEEE Internet of Things Magazine*, 2021, doi: 10.1109/IOTM.0001.2100012.
 
 ```
-@article{YANG20210401,
-title = "A Lightweight Concept Drift Detection and Adaptation Framework for IoT Data Streams",
-author = "Li Yang and Abdallah Shami",
-journal = "IEEE Internet of Things Magazine",
-year = "2021",
-}
+@ARTICLE{9427288,
+  author={Yang, Li and Shami, Abdallah},
+  journal={IEEE Internet of Things Magazine}, 
+  title={A Lightweight Concept Drift Detection and Adaptation Framework for IoT Data Streams}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-6},
+  doi={10.1109/IOTM.0001.2100012}}
 ```
