@@ -1,6 +1,6 @@
 # OASW-Concept-Drift-Detection-and-Adaptation
 
-This is the code for the paper entitled "**[A Lightweight Concept Drift Detection and Adaptation Framework for IoT Data Streams](https://arxiv.org/pdf/2104.10529.pdf)**" accepted in **IEEE Internet of Things Magazine**.  
+This is the code for the paper entitled "**[A Lightweight Concept Drift Detection and Adaptation Framework for IoT Data Streams](https://arxiv.org/pdf/2104.10529.pdf)**" published in **IEEE Internet of Things Magazine**.  
 Authors: Li Yang and Abdallah Shami  
 Organization: The Optimized Computing and Communications (OC2) Lab, ECE Department, Western University
 
