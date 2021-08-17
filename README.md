@@ -20,6 +20,16 @@ NSL-KDD dataset, a popular network traffic dataset for intrusion detection probl
 * Proposed OASW drift detection method implementation: [3-OASW_for_concept_drift_detection&adaptation.ipynb](https://github.com/Western-OC2-Lab/OASW-Concept-Drift-Detection-and-Adaptation/blob/main/3-OASW_for_concept_drift_detection%26adaptation.ipynb)   
 * Real-time prediction & drift detection: [4-Real-time_prediction_with_concept_drift_adaptation.ipynb](https://github.com/Western-OC2-Lab/OASW-Concept-Drift-Detection-and-Adaptation/blob/main/4-Real-time_prediction_with_concept_drift_adaptation.ipynb)   
   * [Real-time prediction video](https://github.com/Western-OC2-Lab/OASW-Concept-Drift-Detection-and-Adaptation/blob/main/Real-time_prediction.mp4)
+
+### Requirements & Libraries  
+* Python 3.6+
+* [scikit-learn](https://scikit-learn.org/stable/)  
+* [Xgboost](https://xgboost.readthedocs.io/en/latest/python/python_intro.html)
+* [LightGBM](https://lightgbm.readthedocs.io/en/latest/)
+* [river](https://riverml.xyz/dev/)
+* [hyperopt](https://github.com/hyperopt/hyperopt)  
+* [optunity](https://github.com/claesenm/optunity)
+
 ## Contact-Info
 Please feel free to contact us for any questions or cooperation opportunities. We will be happy to help.
 * Email: [liyanghart@gmail.com](mailto:liyanghart@gmail.com) or [Abdallah.Shami@uwo.ca](mailto:Abdallah.Shami@uwo.ca)
