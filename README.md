@@ -4,6 +4,8 @@ This is the code for the paper entitled "**[A Lightweight Concept Drift Detectio
 Authors: Li Yang and Abdallah Shami  
 Organization: The Optimized Computing and Communications (OC2) Lab, ECE Department, Western University
 
+A complete **tutorial code** for the comprehensive and complete pipeline for **concept drift, online machine learning, and data stream analytics**, including dynamic data pre-processing, drift-based dynamic feature selection, dynamic model learning & selection, and online ensemble models, can be found in: [MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation](https://github.com/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation)
+
 Another **tutorial code** for **concept drift, online learning, and data stream analytics** can be found in: [PWPAE-Concept-Drift-Detection-and-Adaptation](https://github.com/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation)
 
 ![Alt Text](https://github.com/Western-OC2-Lab/OASW-Concept-Drift-Detection-and-Adaptation/blob/main/real-time_prediction%20with%20drift.gif)
